@@ -1,1 +1,2 @@
 script1_testing
+"This is localbr01 na krub"
